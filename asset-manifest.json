@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hieuRazePage3/static/css/main.9560a0fc.chunk.css",
+    "main.js": "/hieuRazePage3/static/js/main.f729ca45.chunk.js",
+    "main.js.map": "/hieuRazePage3/static/js/main.f729ca45.chunk.js.map",
+    "runtime-main.js": "/hieuRazePage3/static/js/runtime-main.f233da02.js",
+    "runtime-main.js.map": "/hieuRazePage3/static/js/runtime-main.f233da02.js.map",
+    "static/js/2.bae9864a.chunk.js": "/hieuRazePage3/static/js/2.bae9864a.chunk.js",
+    "static/js/2.bae9864a.chunk.js.map": "/hieuRazePage3/static/js/2.bae9864a.chunk.js.map",
+    "static/js/3.553dd700.chunk.js": "/hieuRazePage3/static/js/3.553dd700.chunk.js",
+    "static/js/3.553dd700.chunk.js.map": "/hieuRazePage3/static/js/3.553dd700.chunk.js.map",
+    "index.html": "/hieuRazePage3/index.html",
+    "static/css/main.9560a0fc.chunk.css.map": "/hieuRazePage3/static/css/main.9560a0fc.chunk.css.map",
+    "static/js/2.bae9864a.chunk.js.LICENSE.txt": "/hieuRazePage3/static/js/2.bae9864a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hieuRazePage3/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f233da02.js",
+    "static/js/2.bae9864a.chunk.js",
+    "static/css/main.9560a0fc.chunk.css",
+    "static/js/main.f729ca45.chunk.js"
+  ]
+}
